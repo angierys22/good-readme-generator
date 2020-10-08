@@ -9,6 +9,7 @@
   "author": "Angie Reyes",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2",
+    "jest": "^26.5.2",
+    "path": "^0.12.7"  }
 }
